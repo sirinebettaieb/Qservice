@@ -1,0 +1,12 @@
+[
+    {
+        "name": "mojito",
+        "price": 5.00,
+        "image":"https://www.destinationcocktails.fr/wp-content/uploads/2019/11/Cocktail-mojito-1.jpg"
+    },
+    {
+        "name": "pina colada",
+        "price": 6.00,
+        "image":"https://www.simplyrecipes.com/thmb/zY68crK2iBgGYNRQ9FqTakwRn_Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Pina-Colada-LEAD-4-d0d465dd3c26411ea3623c7ed2d82709.jpg"
+    }
+]
